@@ -11,7 +11,7 @@
     <meta name="description" content="Link Engineering | Building Construction | Water and Drainage | Road & Highways | Sri Lanka">
 
     <!-- title  -->
-    <title>Link Engineering | Building Construction | Water and Drainage | Road & Highways | Sri Lanka</title>
+    <title>Wijaya Engineering | Building Construction | Water and Drainage | Road & Highways | Sri Lanka</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="img/logos/favicon.png">
